@@ -21,7 +21,7 @@ class Boot {
     LiftRules.addToPackages("code")
 
 
-	LiftRules.servletAsyncProvider = (req) => new Jetty7AsyncProvider(req)
+//	LiftRules.servletAsyncProvider = (req) => new Jetty7AsyncProvider(req)
 	
     // Use jQuery 1.4
     LiftRules.jsArtifacts = net.liftweb.http.js.jquery.JQuery14Artifacts
