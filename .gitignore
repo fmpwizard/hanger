@@ -1,0 +1,7 @@
+.DS_Store
+lib_managed
+pmip
+out
+target
+project/build/target
+project/boot

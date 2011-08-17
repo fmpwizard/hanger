@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/lib/selenium-2.1.0/libs" />
+      <root url="file://$PROJECT_DIR$/lib/selenium-2.1.0" />
+      <root url="file://$PROJECT_DIR$/lib/httpcomponents-client-4.1.1" />
+      <root url="file://$PROJECT_DIR$/lib" />
+      <root url="file://$PROJECT_DIR$/lib_managed/scala_2.8.1/compile" />
+      <root url="file://$PROJECT_DIR$/lib/jetty-7.3.0" />
+      <root url="file://$PROJECT_DIR$/lib/specs2" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/lib/httpcomponents-client-4.1.1" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/lib/jetty-7.3.0" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/lib/selenium-2.1.0" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/lib/selenium-2.1.0/libs" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/lib/specs2" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/lib_managed/scala_2.8.1/compile" recursive="false" />
+  </library>
+</component>

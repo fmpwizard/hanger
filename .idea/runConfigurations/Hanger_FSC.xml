@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Hanger FSC" type="ScalaCompilationServerRunConfiguration" factoryName="Scala Compilation Server">
+    <module name="hanger" />
+    <setting name="vmparams" value="" />
+    <RunnerSettings RunnerId="Run" />
+    <ConfigurationWrapper RunnerId="Run" />
+    <method>
+      <option name="Make" enabled="false" />
+    </method>
+  </configuration>
+</component>
