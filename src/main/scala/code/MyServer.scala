@@ -18,6 +18,7 @@ class MyServer {
 
   def stop() {
     server.stop()
+    server.join()
   }
 }
 
